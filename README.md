@@ -1,3 +1,7 @@
+Huge thanks to Professor https://github.com/andfanilo part teacher, part coding wizard, all legend 🧙‍♂️
+
+You can access the assignment details and instructions at the following link: https://andfanilo.github.io/lyon2/mlops
+
 # Lyon 2 NoSQL Tutorial
 
 Contains instructions to install and use `redis`, `mongo` and `OrientDB`, and uses `Jupyter notebook` to interact with the databases in Python or shell.
